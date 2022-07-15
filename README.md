@@ -1,5 +1,7 @@
 # Olá! Meu nome é Paulo.
 
+![avatar](https://avatars.githubusercontent.com/u/16693325?v=4)
+
 #### Sobre mim
 Tenho **25 anos**, moro em **Lavras/MG**, estudo **Ciência da Computação** na **UFLA** e trabalho com desenvolvimento para **iOS**.
 
