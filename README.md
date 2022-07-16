@@ -8,3 +8,13 @@ Tenho **25 anos**, moro em **Lavras/MG**, estudo **Ciência da Computação** na
 #### Informações profissionais
 
 Sou desenvolvedor iOS no [Letras.mus.br](https://letras.mus.br) desde Agosto/2021. Trabalho com a linguagem Swift e com os frameworks *UIKit* e *SwiftUI*. Antes disso, fui estagiário de desenvolvimento iOS no período entre 02/2021 até 07/2021, também no [Letras.mus.br](https://letras.mus.br).
+
+#### Tecnologias e conceitos que tenho conhecimento
+- UIKit
+- SwiftUI
+- Swift
+- Combine
+- GraphQL + Apollo
+- REST + Alamofire
+- Clean Architecture and MVVM
+- Git
